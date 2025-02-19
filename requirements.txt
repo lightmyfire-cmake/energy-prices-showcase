@@ -1,6 +1,7 @@
 streamlit
 joblib
 numpy
-pandasdatetime
+pandas
+datetime
 matplotlib
 xgboost
